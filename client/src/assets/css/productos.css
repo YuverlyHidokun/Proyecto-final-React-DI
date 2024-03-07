@@ -1,0 +1,73 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-header {
+    background-color: #5f0f40; /* Color principal */
+    color: #fff;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .card-body,
+  .card-footer {
+    background-color: #fb8b24; /* Color secundario */
+    color: #fff;
+  }
+  
+  .input-group-text {
+    background-color: #e36414; /* Color terciario */
+    color: #fff;
+  }
+  
+  .btn-primary {
+    background-color: #5f0f40; /* Color principal */
+    border-color: #5f0f40; /* Color principal */
+  }
+  
+  .btn-secondary {
+    background-color: #fb8b24; /* Color secundario */
+    border-color: #fb8b24; /* Color secundario */
+  }
+  
+  .btn-success {
+    background-color: #9a031e; /* Color de realce */
+    border-color: #9a031e; /* Color de realce */
+  }
+  
+  .btn-warning,
+  .btn-info {
+    background-color: #e36414; /* Color terciario */
+    border-color: #e36414; /* Color terciario */
+  }
+  
+  .btn-danger {
+    background-color: #9a031e; /* Color de error */
+    border-color: #9a031e; /* Color de error */
+  }
+  
+  .table {
+    background-color: #fff;
+  }
+  
+  .table th,
+  .table td {
+    border-color: #5f0f40; /* Color principal */
+  }
+  
+  .table-striped tbody tr:nth-of-type(odd) {
+    background-color: #fb8b24; /* Color secundario */
+  }
+  
+  .table-striped tbody tr:nth-of-type(even) {
+    background-color: #e36414; /* Color terciario */
+  }
+  

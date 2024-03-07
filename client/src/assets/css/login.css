@@ -1,0 +1,70 @@
+/* Estilos generales */
+.body {
+    background-color: #5F0F40;
+    color: white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .container_login {
+    background-color: #FB8B24;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .h2_login {
+    color: #E36414;
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  label {
+    color: #9A031E;
+  }
+  
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #9A031E;
+  }
+  
+  .forgot-password {
+    margin-bottom: 10px;
+    text-align: right;
+  }
+  
+  a {
+    color: white;
+  }
+  
+  .actions {
+    margin-top: 20px;
+  }
+  
+  .login_iniciar {
+    background-color: #E36414;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .login_iniciar:hover {
+    background-color: #9A031E;
+  }
+  
+  .login_crear {
+    color: #9A031E;
+    text-decoration: none;
+  }
+  

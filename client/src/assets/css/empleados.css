@@ -1,0 +1,83 @@
+
+.container {
+    padding: 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-header {
+    background-color: #5F0F40;
+    color: white;
+  }
+  
+  .card-footer {
+    background-color: #E36414;
+    color: white;
+  }
+  
+  /* Estilos para los campos de entrada */
+  .input-group-text {
+    background-color: #9A031E;
+    color: white;
+  }
+  
+  /* Estilos para los botones */
+  .btn-success {
+    background-color: #5F0F40;
+    border-color: #5F0F40;
+  }
+  
+  .btn-success:hover {
+    background-color: #FB8B24;
+    border-color: #FB8B24;
+  }
+  
+  .btn-warning {
+    background-color: #FB8B24;
+    border-color: #FB8B24;
+  }
+  
+  .btn-warning:hover {
+    background-color: #E36414;
+    border-color: #E36414;
+  }
+  
+  .btn-info {
+    background-color: #E36414;
+    border-color: #E36414;
+  }
+  
+  .btn-info:hover {
+    background-color: #9A031E;
+    border-color: #9A031E;
+  }
+  
+  .btn-danger {
+    background-color: #9A031E;
+    border-color: #9A031E;
+  }
+  
+  .btn-danger:hover {
+    background-color: #5F0F40;
+    border-color: #5F0F40;
+  }
+  
+  /* Estilos para la tabla */
+  .table {
+    border-color: #5F0F40;
+  }
+  
+  .table-striped tbody tr:nth-of-type(odd) {
+    background-color: #FB8B24;
+  }
+  
+  .table-striped tbody tr:nth-of-type(even) {
+    background-color: #E36414;
+  }
+  
+  .table-striped tbody tr:hover {
+    background-color: #9A031E;
+  }
+  

@@ -1,0 +1,49 @@
+
+body {
+    background-color: #333;
+  }
+  
+
+  .navbar-dark .navbar-nav .nav-link {
+    color: #FB8B24;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link.active {
+    color: #5F0F40;
+  }
+  
+ 
+  .navbar-brand {
+    color: #FB8B24;
+  }
+  
+  .navbar-brand:hover,
+  .navbar-brand:focus {
+    color: #E36414;
+  }
+  
+  .module {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #FFF;
+    transition: all 0.3s ease;
+  }
+  
+  .module:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .module a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .module-icon {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  

@@ -1,0 +1,65 @@
+/* Estilos para el componente Index */
+
+/* Estilos generales */
+body {
+    background-color: #333;
+  }
+  
+  .container {
+    padding-top: 20px;
+    color: white;
+  }
+  
+  /* Estilos para el encabezado */
+  header {
+    background-color: #5F0F40;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  /* Estilos para el contenido principal */
+  .main-content {
+    margin-top: 20px;
+  }
+  
+  /* Estilos para las secciones de ropa */
+  .row {
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para los botones */
+  .btn-primary {
+    background-color: #5F0F40;
+    border-color: #5F0F40;
+  }
+  
+  .btn-primary:hover {
+    background-color: #FB8B24;
+    border-color: #FB8B24;
+  }
+  
+  .btn-outline-primary {
+    color: #5F0F40;
+    border-color: #5F0F40;
+  }
+  
+  .btn-outline-primary:hover {
+    background-color: #FB8B24;
+    color: white;
+  }
+  
+  /* Estilos para las imágenes */
+  .img-fluid {
+    border-radius: 10px;
+  }
+  
+  /* Estilos para los encabezados */
+  .display-4, .display-5 {
+    color: #FB8B24;
+  }
+  
+  /* Estilos para el texto */
+  .lead {
+    color: #E36414;
+  }
+  
